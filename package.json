@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Z4k3n.github.io/github-pages/build",
+  "homepage": "https://Z4k3n.github.io/gh-pages/build",
   "dependencies": {
     "@motionone/utils": "^10.17.0",
     "@testing-library/jest-dom": "^5.17.0",
