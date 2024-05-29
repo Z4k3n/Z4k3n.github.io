@@ -84,7 +84,9 @@ function App() {
             <h2>{t("About Me")}</h2>
           </BoxReveal>
           <BoxReveal boxColor={"#fff"} duration={0.25} delay={0.5}>
-            <p>{t("Hello! I'm Guillermo Martínez, known as Zaken_dev, and I'm a passionate web developer with a focus on creating efficient and visually appealing web applications. My passion for technology drives me to constantly face new challenges, allowing me to grow and improve in my field. If you are looking for someone with creativity and dedication to take your projects to the next level, do not hesitate to contact me. Together we can achieve incredible things!")}</p>
+            <div className='aboutCard'>
+              <p>{t("Hello! I'm Guillermo Martínez, known as Zaken_dev, and I'm a passionate web developer with a focus on creating efficient and visually appealing web applications. My passion for technology drives me to constantly face new challenges, allowing me to grow and improve in my field. If you are looking for someone with creativity and dedication to take your projects to the next level, do not hesitate to contact me. Together we can achieve incredible things!")}</p>
+            </div>
           </BoxReveal>
         </section>
         <section className="projects" id="projects">

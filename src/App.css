@@ -330,7 +330,7 @@ nav div button::after, nav div button::before{
   }
 
   body{
-    background-size: contain;
+    background-size: cover;
   }
 }
 
@@ -465,4 +465,12 @@ a{
 #scrollToTopBtn.show {
   opacity: 1;
   visibility: visible;
+}
+
+.aboutCard{
+  width: 97%;
+  height: 100%;
+  padding: 1px;
+  background-color: #000000;
+  border: 2px dashed white;
 }
