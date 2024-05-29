@@ -21,7 +21,9 @@
 }
 
 body {
-  background-color: #282c34;
+  background-image: url('../src/assets/images/wallpaper.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
   margin: 0;
   color: white;
   font-family: 'Horizon';
@@ -144,6 +146,7 @@ footer {
   .projects{
     grid-column: span 2;
   }
+  
 }
 
 @media (min-width: 1024px) {
@@ -183,7 +186,7 @@ button::after {
   left: 3%;
   width: 95%;
   height: 40%;
-  background-color: #282c34;
+  background-color: transparent;
   transition: 0.5s;
   transform-origin: center;
 }
@@ -196,7 +199,7 @@ button::before {
   left: 3%;
   width: 95%;
   height: 40%;
-  background-color: #282c34;
+  background-color: transparent;
   transition: 0.3s;
 }
 
@@ -324,6 +327,10 @@ nav div button::after, nav div button::before{
 
   .menu-icon {
     display: none;
+  }
+
+  body{
+    background-size: contain;
   }
 }
 
