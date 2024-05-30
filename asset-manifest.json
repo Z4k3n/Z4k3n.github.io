@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.dc95cb36.css",
-    "main.js": "/github-pages/static/js/main.c745ac38.js",
-    "static/media/metmaskethers.jpg": "/github-pages/static/media/metmaskethers.ad883544d37e137d9a56.jpg",
-    "static/media/Python.png": "/github-pages/static/media/Python.bfc6c0c6f375fc9583da.png",
-    "static/media/horizon_outlined.otf": "/github-pages/static/media/horizon_outlined.1421243f74e95f00d5fe.otf",
-    "static/media/horizon.otf": "/github-pages/static/media/horizon.3d45dd95383aa5807d4b.otf",
-    "static/media/React.png": "/github-pages/static/media/React.f9736c852ee8df4ede69.png",
-    "static/media/profile.jpeg": "/github-pages/static/media/profile.c28b572c293f3c4fe584.jpeg",
-    "index.html": "/github-pages/index.html",
-    "main.dc95cb36.css.map": "/github-pages/static/css/main.dc95cb36.css.map",
-    "main.c745ac38.js.map": "/github-pages/static/js/main.c745ac38.js.map"
+    "main.css": "/github-pages/portfolio/static/css/main.cd781c50.css",
+    "main.js": "/github-pages/portfolio/static/js/main.64973ac7.js",
+    "static/media/metmaskethers.jpg": "/github-pages/portfolio/static/media/metmaskethers.ad883544d37e137d9a56.jpg",
+    "static/media/Python.png": "/github-pages/portfolio/static/media/Python.bfc6c0c6f375fc9583da.png",
+    "static/media/horizon_outlined.otf": "/github-pages/portfolio/static/media/horizon_outlined.1421243f74e95f00d5fe.otf",
+    "static/media/horizon.otf": "/github-pages/portfolio/static/media/horizon.3d45dd95383aa5807d4b.otf",
+    "static/media/React.png": "/github-pages/portfolio/static/media/React.f9736c852ee8df4ede69.png",
+    "static/media/profile.jpeg": "/github-pages/portfolio/static/media/profile.c28b572c293f3c4fe584.jpeg",
+    "index.html": "/github-pages/portfolio/index.html",
+    "main.cd781c50.css.map": "/github-pages/portfolio/static/css/main.cd781c50.css.map",
+    "main.64973ac7.js.map": "/github-pages/portfolio/static/js/main.64973ac7.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc95cb36.css",
-    "static/js/main.c745ac38.js"
+    "static/css/main.cd781c50.css",
+    "static/js/main.64973ac7.js"
   ]
 }
